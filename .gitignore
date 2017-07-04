@@ -1,0 +1,5 @@
+.scrapy/*
+.settings/*
+scrapydemo/__pycache__/*
+scrapydemo/img/*
+scrapydemo/*.json
